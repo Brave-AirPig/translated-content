@@ -22,7 +22,7 @@ translation_of: Web/JavaScript/Reference/Global_Objects/Array/find
 ## 语法
 
 ```plain
-arr.find(callback[, thisArg])
+arr.find(callback(element[, index[, array]])[, thisArg])
 ```
 
 ### 参数
